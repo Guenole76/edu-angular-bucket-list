@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-bucket-list-edu"
+    }
+  },
+  "defaultProject": "angular-bucket-list-edu",
+  "cli": {
+    "analytics": "ed445c61-011c-4282-a62d-d39753f7e858"
+  }
 }
